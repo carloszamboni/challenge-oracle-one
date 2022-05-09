@@ -1,0 +1,112 @@
+body{
+	width: 1440px;
+	height: 1024px;
+	background: #E5E5E5;
+}
+
+.logo{
+	position: absolute;
+	top: 40px;
+	left: 84px;
+}
+
+.textoEntrada{
+	position: absolute;
+	top: 168px;
+	left: 240px;
+	width: 577px;
+	height: 200px;
+	border: none;
+	background: transparent;
+
+	font-family: 'Inter';
+	font-style: normal;
+	text-align: center;
+	color: #0A3871;
+	font-size: 32px;
+	line-height: 150%;
+}
+
+
+.muñeco{
+	position: absolute;
+	top: 450px;
+	left: 1000px;
+	
+}
+
+.cuadroSalida{
+	position: absolute;
+	top: 40px;
+	left: 1000px;
+	width: 400px;
+	height: 944px;
+	border: none;
+	border-radius: 32px;
+	background: #FFFFFF;
+	box-shadow: 0px, 24px, 32px, -8px;
+	opacity: 0.5;
+	
+	font-family: 'Inter';
+	font-style: normal;
+	text-align: center;
+	text-anchor: middle;	
+	color: #0A3871;
+	font-size: 24px;
+	line-height: 150%;
+}
+
+
+.nota{
+	position: absolute;
+	width: 205px;
+	height: 18px;
+	top: 851px;
+	left: 264px;
+	border: none;
+	background: transparent;
+
+	font-family: 'Inter';
+	font-style: normal;
+	color: #495057;
+	font-size: 12px;
+	line-height: 150%;
+	opacity: 0.8;	
+}
+
+.encriptar{
+	position: absolute;
+	top: 885px;
+	left: 240px;
+	width: 328px;
+	height: 67px;
+	background: #0A3871;
+	border-radius: 24px;
+
+	font-family: 'Inter';
+	font-style: normal;
+	color: #FFFFFF;
+	font-size: 24px;
+	line-height: 19px;
+	text-align: center;
+	margin: 24px;		
+}
+
+.desencriptar{
+	position: absolute;
+	top: 885px;
+	left: 592px;
+	width: 328px;
+	height: 67px;
+	background: #D8DFE8;
+	border: 1px solid #0A3871;
+	border-radius: 24px;
+
+	font-family: 'Inter';
+	font-style: normal;
+	color: #0A3871;
+	font-size: 24px;
+	line-height: 19px;
+	text-align: center;
+	margin: 24px;		
+}
