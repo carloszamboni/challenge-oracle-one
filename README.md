@@ -1,2 +1,2 @@
 # challenge-oracle-one
-Códigos de los challenges propuestos por Alura Latam en base al programa educativo Oracle One. 
+Códigos de los challenges propuestos por Alura Latam, parte del programa educativo Oracle One. 
